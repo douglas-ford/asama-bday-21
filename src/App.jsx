@@ -47,6 +47,8 @@ function App() {
     shapesButtonRef.current.click();
   };
 
+  console.log('work')
+
   const handleFireWorksClick = () => {
     fireWorksButtonRef.current.click();
   };
